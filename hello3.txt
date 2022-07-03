@@ -3,3 +3,6 @@ aaaaaaaaa
 ggggggg
 add some contest to hello3.txt
 aaaaa
+delelte some hello3.txt
+222222
+sssssssss
